@@ -127,9 +127,6 @@ export class CustomWebviewPanel {
     </script>
         </head>
   <body>
-    <h1>Hello World</h1>
-    <input />
-    <button>Hello</button>
         </body>
         <script src="${scriptUri}" nonce="${nonce}" />
         </html>`;
